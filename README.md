@@ -1,37 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4242f5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Heloisa+Vendramini;I+study+computer+science+at+IFSP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Heloisa+Vendramini;I+study+computer+science+at+UNIP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  <div align="center">
 <!--   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
 
-  <h2>- 📖 Curso Integrado de Informática // Instituto Federal de São Paulo</h2>
-  <p>- 🖥️ Estudando Linguagens de Marcação | HTML5, CSS3</p>
-  <p>- 🖥️ Estudando Linguagem de Programação | Java, PHP</p>
-  <h3>- 🖥️ Concluído: </h3>
-	</div>
-	 <div align="center">
-  <p>- ☑️  Algoritmo e Programação (Lógica de Programação); </p>
-  <p>- ☑️  Desenvolvimento de Web Sites I | HTML, CSS e JavaScript; </p>
-  <p>- ☑️  Gerenciamento de Banco de Dados I | PostgreSQL; </p>
-  <p>- ☑️ Hardware. </p>
-  <p>- ☑️ Sistemas Operacionais e Terminal Linux; </p>
-  <p>- ☑️ Análise e Projeto de Sistemas </p>
-  <p>- ☑️ Desenvolvimento de Web Sites II; </p>
-  <p>- ☑️ Gerenciamento de Banco de Dados II; </p>
-  <p>- ☑️ Linguagem de Programação A; </p>
-  <p>- ☑️ Redes de Computadores. </p>
-  <p>- ☑️ Projeto Integrador; </p>
-	</div>
-   <div align="center">
-  <h3>- 🖥️ Em Andamento: </h3>
-	</div>
-	 <div align="center">
-  
-  <p>- 🔲 Linguagem de Programação B; </p>
-  <p>- 🔲 Projeto Integrador 3; </p>
-  <p>- 🔲 Segurança da Informação </p>
-  <p>- 🔲 Tópicos Avançados em Tecnologia da Informação </p>
+  <h2>- 📖 Pursuing a Bachelor's Degree in Computer Science // UNIP - Paulista University</h2>
+  <p>- 🖥️ Graduated in Computer Technician at the Federal Institute of São Paulo.</p>
   
 </div>
 <h3 align="center">
@@ -62,6 +37,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-E7ECEB?style=for-the-badge&logo=php)&nbsp;
 ![JAVA](https://img.shields.io/badge/JAVA-E7ECEB?style=for-the-badge&logo=java)&nbsp;
+![PYTHON](https://img.shields.io/badge/PYTHON-E7ECEB?style=for-the-badge&logo=python)&nbsp;
 
 ### ⚡ &nbsp;Database
 
